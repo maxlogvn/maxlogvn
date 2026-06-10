@@ -46,7 +46,7 @@
 
 ---
 
-## 🐍 Contribution Snake (hoạt ảnh)
+## 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maxlogvn/maxlogvn/output/github-contribution-grid-snake-dark.svg" />
