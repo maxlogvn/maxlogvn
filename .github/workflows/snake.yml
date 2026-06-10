@@ -2,22 +2,26 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # chạy mỗi ngày
-  workflow_dispatch:
+    - cron: "0 0 * * *"   # chạy mỗi ngày lúc 0h UTC
+  workflow_dispatch:       # cho phép chạy thủ công từ giao diện GitHub
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+      
       - uses: Platane/snk@v3
+        id: snake
         with:
           github_user_name: maxlogvn
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          
       - uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
-          publish_branch: output
+          publish_branch: output   # tên nhánh đích
+          force_orphan: true       # tạo nhánh mới nếu chưa tồn tại
