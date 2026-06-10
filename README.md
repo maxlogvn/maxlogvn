@@ -1,16 +1,16 @@
 <h1 align="center">📈 Ng. Thế Anh's Dev Metrics</h1>
 
 <p align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=https://github.com/maxlogvn&color=brightgreen&style=flat-square&label=Profile+Views)
+  ![Profile Views](https://komarev.com/ghpvc/?username=maxlogvn&color=brightgreen&style=flat-square&label=Profile+Views)
 </p>
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=https://github.com/maxlogvn&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maxlogvn&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/maxlogvn&theme=github-dark-blue&hide_border=true&background=0d1117)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maxlogvn&theme=github-dark-blue&hide_border=true&background=0d1117)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/maxlogvn&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maxlogvn&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
 
 </div>
 
@@ -18,7 +18,7 @@
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=https://github.com/maxlogvn&theme=github-compact&hide_border=true&bg_color=0d1117)](https://github.com/https://github.com/maxlogvn)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=maxlogvn&theme=github-compact&hide_border=true&bg_color=0d1117)](https://github.com/maxlogvn)
 
 </div>
 
@@ -30,6 +30,6 @@
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://maxlogvn.dev) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ng.theanh@example.com) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/https://twitter.com/ngtheanh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/ngtheanh) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/https://github.com/maxlogvn)
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://maxlogvn.dev) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ng.theanh@example.com) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/https://twitter.com/ngtheanh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/ngtheanh) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maxlogvn)
 
 </div>
