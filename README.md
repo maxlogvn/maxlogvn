@@ -3,10 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=2E9AFE&center=true&vCenter=true&width=500&lines=Ng.+Thế+Anh;Full-stack+Developer;Automation+Enthusiast;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=maxlogvn&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/maxlogvn?label=Followers&style=social" alt="GitHub followers" />
-</p>
+
 
 ## 👨‍💻 About Me
 
