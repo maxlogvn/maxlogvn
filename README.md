@@ -54,7 +54,6 @@
   <img alt="Contribution Snake" src="https://raw.githubusercontent.com/maxlogvn/maxlogvn/output/github-contribution-grid-snake.svg" />
 </picture>
 
-*(Để có ảnh snake động, bạn cần tạo GitHub Action – hướng dẫn bên dưới)*
 
 ---
 
@@ -75,4 +74,3 @@
 
 ---
 
-💡 *"Code is like humor. When you have to explain it, it’s bad." – Cory House*
