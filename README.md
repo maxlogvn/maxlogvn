@@ -16,22 +16,19 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=maxlogvn&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&rank_icon=github&include_all_commits=true" alt="GitHub Stats" />
+<table align="center">
+  <tr>
+      <td align="center">
+         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxlogvn&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
       </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=maxlogvn&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=0d1117" alt="GitHub Streak" />
+      <td align="center">
+         <img src="https://github-readme-streak-stats.herokuapp.com/?user=maxlogvn&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=0d1117" alt="GitHub Streak" />
       </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxlogvn&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
-</div>
+      <td align="center">
+         <img src="https://github-readme-stats.vercel.app/api?username=maxlogvn&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&rank_icon=github&include_all_commits=true" alt="GitHub Stats" />
+      </td>
+  </tr>
+</table>
 
 ---
 
