@@ -14,20 +14,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<table align="center">
-  <tr>
-      <td align="center">
-         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxlogvn&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
-      </td>
-      <td align="center">
-         <img src="https://github-readme-stats.vercel.app/api?username=maxlogvn&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&rank_icon=github&include_all_commits=true" alt="GitHub Stats" />
-      </td>
-  </tr>
-</table>
-
-
 ## 📈 Contribution Graph
 
 <div align="center">
